@@ -84,3 +84,6 @@ footer{
 #loading-img{
     width: 100px;
 }
+.hidde{
+    display: none!important;
+}
